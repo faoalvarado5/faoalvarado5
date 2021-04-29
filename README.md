@@ -4,7 +4,7 @@ Computer Engineering at Tecnológico de Costa Rica.
 
 To contact me:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabrizio-alvarado-barquero/)]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabrizio-alvarado-barquero/)
 
 My Github Stats: 
 <p align = "center">
