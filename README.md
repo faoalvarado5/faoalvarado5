@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Computing Engineering at Tecnológico de Costa Rica.
+Computing Engineering graduated from Tecnológico de Costa Rica.
 
 To contact me:
 
